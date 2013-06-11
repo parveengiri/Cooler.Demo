@@ -12,6 +12,7 @@
     <h3>Contacts For Cooler Company</h3>
     <p>Contact Person Name</p>
     <p>Contact Number</p>
+    <p>Closing My contact page</p>
     </div>
     </form>
 </body>
