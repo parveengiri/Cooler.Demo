@@ -18,7 +18,7 @@
 
     <p>Discouted coolers</p>
     <p>list</p>
-
+    <p>Closing Now</p>
     </div>
     </form>
 </body>
