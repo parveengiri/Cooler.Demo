@@ -11,9 +11,14 @@
     <div>
     <h1>Cooler Types</h1>
     <p>Price list of coolers</p>
+
     <p>List of cooler types</p>
     <p>1. Cooler type1</p>
     <p>2. Cooler type2</p>
+
+    <p>Discouted coolers</p>
+    <p>list</p>
+
     </div>
     </form>
 </body>
